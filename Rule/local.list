@@ -1,1 +1,10 @@
 
+# PlatformIO Core
+DOMAIN-SUFFIX,platformio.org
+DOMAIN-SUFFIX,registry.platformio.org
+DOMAIN-SUFFIX,dl.registry.platformio.org
+
+# GitHub（PIO 很多包从这里下）
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,githubusercontent.com
+DOMAIN-SUFFIX,raw.githubusercontent.com
